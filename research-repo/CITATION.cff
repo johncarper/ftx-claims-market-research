@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite it as below."
+type: dataset
+title: "FTX Claims Market Research"
+authors:
+  - family-names: "Carper"
+    given-names: "John"
+year: 2026
+url: "https://bankruptcyclaimtrading.com/"
+license: CC-BY-4.0
